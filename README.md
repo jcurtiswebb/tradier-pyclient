@@ -6,5 +6,5 @@ Setting Up The Client
 2. In the same folder that you'll be running the client out of, create a user-settings.json file with the following content:
 
 {
-	"accesstoken" : "SDOIFJWO09uaf0s9fuas09fs"
+	"accesstoken" : "123123123123123123123"
 }
